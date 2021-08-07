@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anthony (github:@dmfromscratch), ttrpg game designer, writer, artist, and editor.
 - 👀 I’m interested in role playing games, all sorts: tabletop, computer, mobile, text-forum, etc.
 - 🌱 I’m currently learning to do layout for printed book projects.
-- 🌐 My website is [www.vsr.ink].
+- 🌐 My website is www.vsr.ink.
 - 📫 I'm on Twitter @dm_fromscratch.
 
 <!---
